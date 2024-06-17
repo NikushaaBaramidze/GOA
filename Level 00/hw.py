@@ -1,0 +1,17 @@
+name ("Niko Baramidze")
+surname ("13")
+print ("Gaming")
+print ("Georgia , Batumi")
+
+
+print (5 + 5)
+print (25-10)
+print (20*20)
+print (30//10)
+print (1000**2)
+print (1000-243)
+print (1705*2)
+print (123*123)
+print (99+1)
+print (1000+1000)
+print (1**1)
